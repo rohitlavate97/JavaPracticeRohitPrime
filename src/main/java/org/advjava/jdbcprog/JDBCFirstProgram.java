@@ -11,7 +11,7 @@ public class JDBCFirstProgram {
 
     private static final String DB_pwd="Admin123";
 
-    private static final String INSERT_SQL="INSERT INTO BOOKS VALUE(101,'JAVA','2000')";
+    private static final String INSERT_SQL="INSERT INTO BOOKS VALUE(103,'PYTHON','2500')";
 
     public static void main(String[] args) throws Exception {
 
